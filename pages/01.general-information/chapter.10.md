@@ -1,5 +1,8 @@
 ---
 title: 'General Information'
+taxonomy:
+    category: docs
+child_type: docs
 ---
 
 # Welcome
