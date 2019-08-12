@@ -1,12 +1,10 @@
 ---
-title: 'Basics 2'
+title: 'Domain Management'
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 1
-
-# Basics
+# Domain Management
 
 Discover the **basic** principles
