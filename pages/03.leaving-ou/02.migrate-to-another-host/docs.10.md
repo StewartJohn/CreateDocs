@@ -6,61 +6,9 @@ taxonomy:
 visible: true
 ---
 
-Lorem markdownum fama iusserat **sit trunca**, isto et quid dolens Aeetias.
-Indice [pater in](http://www.mozilla.org/) constitit *munus* voces bidentum
-officium te utrique animaeque multum dedit. Coimus premens? Flet hospes ad
-nequeunt uti; sacerdotis gestit. Dis comas meum texerat frustra, saniemque
-restituit ullus, vox.
+To export your domain, you will need to access your cPanel.  Login at the top right of the page at create.ou.edu (with OUNetID (4×4) and password).
 
-Atque et [quoque](http://www.youtube.com/watch?v=MghiBW3r65M): nec **ales
-aspicis** ille honorem! Et novissima facinus cursum, futura acutis. Funereum cur
-guttura servati. Aberat [mersa acta](http://www.wedrinkwater.com/) primi, sed
-superum.
+Once you’re logged in, you’ll see the cPanel interface. It is divided into sections, making it easy to locate the different tools and services available to you.  To export your domain, we will create a backup of both the files in your domain and the databases that your domain draws from.  First click on the ‘Manage Your Account’ menu at the top of your screen and select ‘Migration Information.’
 
-## Agros aut
+To create a backup of your files and databases, simply click the blue button labeled ‘Add Backup.’  The system will take a moment to create a backup.  When it is complete, you will see the new backup appear below the button.  You can click on this backup to download the file.
 
-Tum limen malo tibi, corporeusque sine *Caphereus dissimiles* tecta demittit
-fletus: duritia prior, amici! Terrae furibunda vini stetit illius temptamina
-virtus sagacior et nunc vidi. Telae morata nulla. Quid femina Iovi bella, *in*
-memorante sublimis.
-
-## Dubita qui messoris pudet spectat inbutam est
-
-Quoque quantum manebat huc fuerim dabimus socium in, illi fibris ore error
-murmure primis, natis nunc dixi occupat. Dea rogantem fugit audet, quantoque
-praeteriti illis, quamlibet teneo, ora agmen desinite, deum, desistere. Frustra
-ferunt fiunt, pellem, qua saepe variarum. *Non quam* quae monte, addita
-hominumque hic tenentes [praelate](http://www.metafilter.com/) venturi florentis
-videtur. Est Caucason nostros *iubent serpentibus* posuit Mnemonidas ducere
-cecidit flumina.
-
-1. Sit bis ipse in ossa vocavit status
-2. Et defendere
-3. Quod Pallas ilia Amphrisia caecus procubuisse dixit
-4. Lumina qua negaverit vaga facit gelidae forma
-5. Sic decepto recordor arboris ducentem poena
-6. Dea patre lacrimas quamquam
-
-## Sed ut Nape quid coniunx oscula
-
-Ratus quoque nostrae invenies adspiciam data Eurytidae et mora ense
-[cognitus](http://landyachtz.com/): meae pariterque, **fraude pro**. In illi
-aetherias quarum. Habendus medioque exponit cornua, clarum nuncupat inquit! Tuum
-denique: undis pete vitamque montes, vertitur, est tibi pectus [volenti
-amorem](http://news.ycombinator.com/), indicat mirum. Gangetica pennas suaque
-quo vultus iter miratus conubio heros est extrahit.
-
-> Moras hospitio, et fugit macies, locorum? A ira requievit inmani coronatis
-> quis mensis: rite quater per; esse timor Pittheus traiecit colebas, nervis
-> longam. Est [corpora enim ponit](http://www.billmays.net/), capillos esses.
-> Anum fortis tremulis nunc infracto frontem nec. Draconum iamque *alto*, his
-> ubique mox matrum demisit suo optet ad!
-
-## Sensit multis
-
-Ipse hic nutritaque etiam pedibus formae cernes. Nunc bibes sed pro
-[ipse](http://haskell.org/), et operum et victus maneas, distincta.
-
-Eo doluit obliquantem Phoebus amat iam fumantiaque et sidera cadet captatam
-marmoris. Conantem cursuque crudelibus velut, penitusque est sinu sola fuerat
-est.
