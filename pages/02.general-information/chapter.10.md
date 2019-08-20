@@ -1,10 +1,10 @@
 ---
-title: 'Domain Management 2'
+title: 'General Information'
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-# Domain Management
+# General Information
 
 Discover the **basic** principles
