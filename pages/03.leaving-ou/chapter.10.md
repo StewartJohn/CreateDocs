@@ -1,10 +1,10 @@
 ---
-title: 'Technical Information 2'
+title: 'Leaving OU'
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-# Technical Information
+# Leaving OU
 
 Discover the **basic** principles
