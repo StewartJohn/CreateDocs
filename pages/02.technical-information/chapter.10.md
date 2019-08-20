@@ -1,10 +1,10 @@
 ---
-title: 'cPanel Dashboard'
+title: 'Technical Information'
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-# cPanel Dashboard
+# Technical Information
 
 Discover the **basic** principles
