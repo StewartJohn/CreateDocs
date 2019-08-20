@@ -1,5 +1,5 @@
 ---
-title: 'Migrate to another host 2'
+title: 'Moving your top level domain'
 taxonomy:
     category:
         - docs
