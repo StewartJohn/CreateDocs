@@ -6,22 +6,11 @@ taxonomy:
 visible: true
 ---
 
-If you registered a top level domain with OU Create, you can migrate that domain to another web registrar.
+You are welcome to take the websites and anything else you've built in your domain to another hosting service. To make this easier, we suggest that you create a backup of your OU Create account, and then upload that backup to your new host. 
 
-Transferring a domain you already own is not too much different from registering a new domain, except the transfer process requires an EPP code, or an agreement code between your old registrar and your new registrar that allows the release of your domain.  Your new registrar will have information on how to transfer in a domain.  When you start that process, you will be prompted to enter your EPP code.
+To export your domain, you will need to access your cPanel.  Login at the top right of the page at create.ou.edu (with OUNetID (4×4) and password).
 
-How to find your EPP Code:
+Once you’re logged in, you’ll see the cPanel interface. It is divided into sections, making it easy to locate the different tools and services available to you.  To export your domain, we will create a backup of both the files in your domain and the databases that your domain draws from.  First click on the ‘Manage Your Account’ menu at the top of your screen and select ‘Migration Information.’
 
-First you will need to unlock your OU Create account by clicking on the red ‘Locked’ button.
+To create a backup of your files and databases, simply click the blue button labeled ‘Add Backup.’  The system will take a moment to create a backup.  When it is complete, you will see the new backup appear below the button.  You can click on this backup to download the file.
 
-Next click the now green ‘Get Code’ button.  When you click on the ‘Get Code’ button, the system will send you an email with your EPP code.
-
-At this stage, here are a few items to note:
-
-    If you have whois protection enabled, you must disable it temporarily before you initiate the transfer. This is because your new registrar will send an authorization email to confirm the email address paired with your domain. (This is a “are you really sure you want to transfer?” message.)
-    You must click the confirmation link in the email, or you will have to start the process over!
-    The domain must be older than 60 days.
-    The domain must have no other transfers in the last 60 days.
-    The domain transfer process can take up to 5 days.
-
-Once you receive confirmation that your domain has successfully been transferred, you can begin setting up your new domain.
